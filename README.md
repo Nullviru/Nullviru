@@ -10,4 +10,4 @@
 </p>
 
 <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies<br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nullviru&theme=juicyfresh&no-bg=true"/></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Nullviru&theme=alduin&no-bg=true"/></p>
