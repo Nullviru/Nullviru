@@ -1,1 +1,2 @@
-<p align="center"><img height="300" src="https://media4.giphy.com/media/UuYBHTElsOafX4NnHO/giphy.gif"/></p>
+### Heyo 👋
+Welcome to my Github! I rarely finish projects but here you can view all the ideas I worked on for a bit then lost interest.
